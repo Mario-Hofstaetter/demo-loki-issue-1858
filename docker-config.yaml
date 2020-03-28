@@ -24,7 +24,6 @@ scrape_configs:
       - timestamp:
           source:   timestamp
           format:   "2006-01-02 15:04:05.9999"
-          location: "Europe/Vienna"
       - labels:
           level:
           logger:
@@ -34,7 +33,4 @@ scrape_configs:
       - targets:
           - localhost
         labels:
-          job:      servicelog
-          sitename: MySite1
-          instance: SERVER1
           __path__: /var/log/lorem.exe.log
