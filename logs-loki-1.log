@@ -1,0 +1,300 @@
+Attaching to debug-loki_loki_1
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.086830191Z caller=loki.go:155 msg=initialising module=server
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.08730811Z caller=server.go:147 http=[::]:3100 grpc=[::]:9095 msg="server listening on addresses"
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.087515619Z caller=loki.go:155 msg=initialising module=runtime-config
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.087580622Z caller=manager.go:109 msg="runtime config disabled: file not specified"
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.087730328Z caller=loki.go:155 msg=initialising module=memberlist-kv
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.087751429Z caller=loki.go:155 msg=initialising module=table-manager
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088723569Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2519 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08875677Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2520 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08876727Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2521 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088775971Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2522 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088797572Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2523 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088807272Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2524 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088816472Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2525 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088825273Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2526 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088833773Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2527 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088842274Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2528 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088849374Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2529 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088856274Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2530 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088863574Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2531 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088870675Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2532 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088877575Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2533 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088884975Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2534 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088891676Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2535 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088898476Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2536 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.088906476Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2537 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089025781Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2538 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089043182Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2539 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089052582Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2540 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089065283Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2541 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089073483Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2542 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089080983Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2543 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089088084Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2544 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089094984Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2545 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089101984Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2546 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089110585Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2547 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089118285Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2548 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089125585Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2549 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089132586Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2550 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089139486Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2551 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089146386Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2552 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089153986Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2553 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089165587Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2554 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089173087Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2555 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089180087Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2556 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089189788Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2557 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089196888Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2558 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089203788Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2559 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089210689Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2560 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089217689Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2561 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089224489Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2562 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08923139Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2563 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08924649Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2564 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08925329Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2565 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089260091Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2566 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089266991Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2567 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089273691Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2568 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089281092Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2569 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089287992Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2570 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089294892Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2571 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089301692Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2572 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089309993Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2573 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089317593Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2574 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089324793Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2575 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089332294Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2576 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089339494Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2577 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089346494Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2578 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089353795Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2579 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089360995Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2580 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089368295Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2581 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089375396Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2582 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089382496Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2583 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089389296Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2584 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089396496Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2585 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089403497Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2586 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089410297Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2587 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089417497Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2588 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089429998Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2589 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089437898Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2590 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089444898Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2591 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089451799Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2592 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089458899Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2593 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089465699Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2594 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.0894726Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2595 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.0894795Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2596 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.0894868Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2597 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089502101Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2598 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089508901Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2599 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089515601Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2600 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089524202Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2601 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089531002Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2602 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089538402Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2603 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089545303Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2604 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089553403Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2605 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089560403Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2606 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089567203Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2607 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089574004Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2608 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089581104Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2609 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089588004Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2610 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089594805Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2611 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089601705Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2612 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089608505Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2613 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089615405Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2614 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089622106Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2615 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089629006Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2616 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089635806Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2617 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089643707Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2618 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089650607Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2619 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089657407Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2620 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089664507Z caller=schema_config.go:381 msg="Expected Table" tableName=index_2621 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089671708Z caller=schema_config.go:402 msg="Table is Active" tableName=index_2621 provisionedRead=0 provisionedWrite=0 useOnDemandMode=false useWriteAutoScale=false useReadAutoScale=false
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.089705809Z caller=table_manager.go:292 msg="synching tables" expected_tables=103
+[36mloki_1      |[0m level=error ts=2020-03-30T18:21:50.089762911Z caller=table_manager.go:252 msg="error syncing tables" err="lstat /loki/index: no such file or directory"
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.089817214Z caller=loki.go:155 msg=initialising module=ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089896317Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.089946619Z caller=mock.go:120 msg="Get - not found" key=collectors/ring
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.08995732Z caller=client.go:211 msg="value is nil" key=collectors/ring index=1
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.08996892Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=1
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090011422Z caller=loki.go:155 msg=initialising module=overrides
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090024722Z caller=loki.go:155 msg=initialising module=distributor
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090080525Z caller=loki.go:155 msg=initialising module=store
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.09021673Z caller=loki.go:155 msg=initialising module=querier
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090250032Z caller=modules.go:154 msg="initializing querier worker" config="{Address: Parallelism:10 DNSLookupDuration:10s GRPCClientConfig:{MaxRecvMsgSize:104857600 MaxSendMsgSize:16777216 UseGzipCompression:false RateLimit:0 RateLimitBurst:0 BackoffOnRatelimits:false BackoffConfig:{MinBackoff:100ms MaxBackoff:10s MaxRetries:10}}}"
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090262532Z caller=worker.go:64 msg="no address specified, not starting worker"
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090424339Z caller=loki.go:155 msg=initialising module=ingester
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090469141Z caller=lifecycler.go:487 msg="not loading tokens from file, tokens file path is empty"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090500342Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090508542Z caller=mock.go:120 msg="Get - not found" key=collectors/ring
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.090518243Z caller=lifecycler.go:511 msg="instance not found in ring, adding with no tokens" ring=ingester
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090571245Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=0 value="\"*\\xa4\\n(\\n\\f453cf8b10eb2\\x12\\x18\\n\\x0e127.0.0.1:9095\\x10\\xbe\\xf1\\x88\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090606546Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=2 value="\"*\\xa4\\n(\\n\\f453cf8b10eb2\\x12\\x18\\n\\x0e127.0.0.1:9095\\x10\\xbe\\xf1\\x88\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.090629947Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=2
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.093327658Z caller=loki.go:155 msg=initialising module=all
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.093378961Z caller=main.go:74 msg="Starting Loki" version="(version=master-b7e868a, branch=master, revision=b7e868ad)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.09386208Z caller=lifecycler.go:359 msg="JoinAfter expired" ring=ingester
+[36mloki_1      |[0m level=info ts=2020-03-30T18:21:50.093909282Z caller=lifecycler.go:363 msg="auto-joining cluster after timeout" ring=ingester
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.093959385Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.094010787Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=2 value="\"*\\xa4\\n(\\n\\f453cf8b10eb2\\x12\\x18\\n\\x0e127.0.0.1:9095\\x10\\xbe\\xf1\\x88\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.094132692Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=2 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.094178394Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=3 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:50.094227996Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=3
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:52.090820992Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:52.090889795Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=3
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:54.090847195Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:54.090934399Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=3
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.003232216Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=208.208µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.003509928Z caller=logging.go:44 traceID=6f460c12aa16427a msg="POST /loki/api/v1/push (204) 2.509503ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.019820191Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=116.505µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.020867134Z caller=logging.go:44 traceID=142c18ddc1e1b057 msg="POST /loki/api/v1/push (204) 2.19399ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.03650777Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=358.114µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.036761181Z caller=logging.go:44 traceID=6c37a40e8e5c1811 msg="POST /loki/api/v1/push (204) 1.266752ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.047503718Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=68.703µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.047628223Z caller=logging.go:44 traceID=7e9f369f5138d77b msg="POST /loki/api/v1/push (204) 731.43µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.06009763Z caller=grpc_logging.go:41 duration=2.530803ms method=/logproto.Pusher/Push msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.060709355Z caller=logging.go:44 traceID=2c9f2d0ce7d26fa6 msg="POST /loki/api/v1/push (204) 4.024764ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.08295886Z caller=grpc_logging.go:41 duration=110.604µs method=/logproto.Pusher/Push msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.083102066Z caller=logging.go:44 traceID=392a705219a0c814 msg="POST /loki/api/v1/push (204) 10.668334ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.096688019Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.096733821Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=3
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.096775523Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.096841625Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=3 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.097013532Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=3 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.097038933Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=4 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.097059934Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=4
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.111435519Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=323.113µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.11170353Z caller=logging.go:44 traceID=5a55ed324e4c5b06 msg="POST /loki/api/v1/push (204) 1.831575ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.127085056Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=93.103µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.127465571Z caller=logging.go:44 traceID=4ccaff74b729ca98 msg="POST /loki/api/v1/push (204) 1.945479ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.138887336Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=115.905µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.139125446Z caller=logging.go:44 traceID=67e58faa9bdf65b3 msg="POST /loki/api/v1/push (204) 975.34µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.154331564Z caller=grpc_logging.go:41 duration=1.520062ms method=/logproto.Pusher/Push msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.154665078Z caller=logging.go:44 traceID=3095d93e3277a68f msg="POST /loki/api/v1/push (204) 2.504302ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.164836592Z caller=grpc_logging.go:41 duration=102.105µs method=/logproto.Pusher/Push msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.165006399Z caller=logging.go:44 traceID=68ed827700a91418 msg="POST /loki/api/v1/push (204) 1.049543ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.17781932Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=62.002µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.178038229Z caller=logging.go:44 traceID=6920a07004348238 msg="POST /loki/api/v1/push (204) 988.14µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.191521378Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=124.105µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.191692885Z caller=logging.go:44 traceID=3cc69a45238ff6a msg="POST /loki/api/v1/push (204) 1.816074ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.207094611Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=2.478901ms msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.208709177Z caller=logging.go:44 traceID=7fd5985338747368 msg="POST /loki/api/v1/push (204) 4.606988ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.222016718Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=67.103µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.222162224Z caller=logging.go:44 traceID=7af4ffe74c089cfa msg="POST /loki/api/v1/push (204) 1.057243ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.236899324Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=1.357156ms msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.237123433Z caller=logging.go:44 traceID=5b1feb58a19596c1 msg="POST /loki/api/v1/push (204) 2.357896ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.249020317Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=62.803µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.249246926Z caller=logging.go:44 traceID=523a4f989627113 msg="POST /loki/api/v1/push (204) 1.094344ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.262893482Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=137.305µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.263121391Z caller=logging.go:44 traceID=cb24c9d29d7f5b7 msg="POST /loki/api/v1/push (204) 1.386957ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.275356089Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=69.402µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.275508195Z caller=logging.go:44 traceID=495cc39fc2ddc4fc msg="POST /loki/api/v1/push (204) 766.732µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.29161175Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=126.505µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.291838059Z caller=logging.go:44 traceID=4a72c25e7a351f43 msg="POST /loki/api/v1/push (204) 1.213149ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.303932751Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=1.322854ms msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.304079557Z caller=logging.go:44 traceID=3819776bcd3debd6 msg="POST /loki/api/v1/push (204) 2.099085ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.315834936Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=100.004µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.315961441Z caller=logging.go:44 traceID=21aa1656fbd7f010 msg="POST /loki/api/v1/push (204) 858.135µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.337002497Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=65.503µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.337220006Z caller=logging.go:44 traceID=60961dd475af90e msg="POST /loki/api/v1/push (204) 856.735µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.351020367Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=66.103µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.351170173Z caller=logging.go:44 traceID=121969b653d6b9d1 msg="POST /loki/api/v1/push (204) 856.635µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.367083421Z caller=grpc_logging.go:41 duration=1.346554ms method=/logproto.Pusher/Push msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.367605142Z caller=logging.go:44 traceID=2434c2b4fb44367c msg="POST /loki/api/v1/push (204) 2.571105ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.378190273Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=89.504µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.378329978Z caller=logging.go:44 traceID=1bf52d5f295d131b msg="POST /loki/api/v1/push (204) 939.538µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.394383832Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=67.502µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.394606441Z caller=logging.go:44 traceID=4fc54e709390fd10 msg="POST /loki/api/v1/push (204) 1.009542ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.406975944Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=65.803µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.407097049Z caller=logging.go:44 traceID=7ce66c1dd5016331 msg="POST /loki/api/v1/push (204) 833.134µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.420957113Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=1.522262ms msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.421077518Z caller=logging.go:44 traceID=917d8dd27ae7948 msg="POST /loki/api/v1/push (204) 2.348696ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.436810058Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=94.304µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.436944063Z caller=logging.go:44 traceID=297b10ab326feee2 msg="POST /loki/api/v1/push (204) 2.669808ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.454454176Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=74.604µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:55.454626783Z caller=logging.go:44 traceID=6257a9514911d2 msg="POST /loki/api/v1/push (204) 914.538µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:56.489939458Z caller=grpc_logging.go:41 method=/logproto.Pusher/Push duration=87.803µs msg="gRPC (success)"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:56.490072363Z caller=logging.go:44 traceID=3bbcd564e1297c73 msg="POST /loki/api/v1/push (204) 895.336µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:57.090829332Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:57.090908535Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=4
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:59.090832153Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:59.090914757Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=4
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:59.83436879Z caller=grpc_logging.go:41 method=/logproto.Querier/Label duration=46.101µs msg="gRPC (success)"
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.834527396Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.LabelNamesForMetricName level=debug metric=logs
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.834556497Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatchers level=debug metricName=logs matchers=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.8346159Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatcher level=debug metricName=logs matcher=null
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.834653801Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatcher level=debug queries=16
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.834664502Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatcher level=debug filteredQueries=16
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.834713204Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=cachingIndexClient.cacheFetch level=debug hits=0 misses=16
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835000415Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatcher level=debug entries=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835014416Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupSeriesByMetricNameMatcher level=debug ids=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835021816Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.LabelNamesForMetricName level=debug series-ids=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835034416Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupLabelNamesBySeries level=debug seriesIDs=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835042817Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupLabelNamesBySeries level=debug queries=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835055217Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=cachingIndexClient.cacheFetch level=debug hits=0 misses=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835063018Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.lookupLabelNamesBySeries level=debug entries=0
+[36mloki_1      |[0m ts=2020-03-30T18:21:59.835070518Z caller=spanlogger.go:53 org_id=fake trace_id=78cd115f6a0c8d1d method=SeriesStore.LabelNamesForMetricName level=debug labelNames=1
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:21:59.835182622Z caller=logging.go:44 traceID=78cd115f6a0c8d1d msg="GET /loki/api/v1/labels (200) 2.536102ms"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.090836906Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.090910209Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=4 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.090970012Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=4 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.090995313Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.091006813Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=4
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.091014713Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=5 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:00.091034414Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=5
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:02.090845698Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:02.090918101Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=5
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:04.056944223Z caller=grpc_logging.go:41 method=/logproto.Querier/Label duration=38.401µs msg="gRPC (success)"
+[36mloki_1      |[0m ts=2020-03-30T18:22:04.057084028Z caller=spanlogger.go:53 org_id=fake trace_id=35f0042b811be383 method=ChunkStore.LabelValues level=debug from=1585588924.056 through=1585592524.056 metricName=logs labelName=level
+[36mloki_1      |[0m ts=2020-03-30T18:22:04.057210133Z caller=spanlogger.go:53 org_id=fake trace_id=35f0042b811be383 method=cachingIndexClient.cacheFetch level=debug hits=0 misses=16
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:04.057590248Z caller=logging.go:44 traceID=35f0042b811be383 msg="GET /loki/api/v1/label/level/values (200) 928.937µs"
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:04.09085387Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:04.090933473Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=5
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:05.090777495Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:05.0908817Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=5 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:05.090915701Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=5 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:05.090942502Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=6 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:05.090966403Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=6
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:07.090872551Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:07.090948954Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=6
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:09.090871792Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:09.090945695Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=6
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:10.090836706Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:10.090900709Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=6 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:10.09093181Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=6 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:10.090958011Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=7 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:10.090986812Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=7
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:12.090848636Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:12.09093794Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=7
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:14.090843865Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:14.090931169Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=7
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.090859079Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.090946282Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=7 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.090980884Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=7 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.091006385Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.091018885Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=7
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.091026886Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=8 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:15.091050787Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=8
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:17.090845807Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:17.09093751Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=8
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:19.090823844Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:19.090907447Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=8
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090767264Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090891068Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=8 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.09092647Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=8 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090951571Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090963571Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=8
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090971171Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=9 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.090990672Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=9
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.093909484Z caller=flush.go:187 msg="flushing stream" userid=fake fp=c2534220657ba5e5 immediate=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:20.093906383Z caller=flush.go:187 msg="flushing stream" userid=fake fp=66d88d2b6b963aa3 immediate=false
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:22.090856717Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:22.090926119Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=9
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:24.090855076Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:24.090927679Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=9
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.090895814Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=0
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.090967216Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=9 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.090997418Z caller=mock.go:86 msg=CAS key=collectors/ring modify_index=9 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.091021418Z caller=mock.go:149 msg="Get - deadline exceeded" key=collectors/ring
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.091034019Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=9
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.091041719Z caller=mock.go:159 msg=Get key=collectors/ring modify_index=10 value="\"\\xa3\\x05\\xf4\\xa2\\x02\\n\\xa0\\x05\\n\\f453cf8b10eb2\\x12\\x8f\\x05\\n\\x0e127.0.0.1:909\""
+[36mloki_1      |[0m level=debug ts=2020-03-30T18:22:25.09106122Z caller=mock.go:113 msg=Get key=collectors/ring wait_index=10
